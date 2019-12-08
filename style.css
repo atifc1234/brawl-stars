@@ -4,3 +4,7 @@ body {
 table, tr, td, thead, tbody {
     border: solid 1px black;
 }
+
+table {
+    border-collapse: collapse;
+}
