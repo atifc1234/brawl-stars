@@ -1,2 +1,1 @@
 # brawl-stars
-### brawl-stars
