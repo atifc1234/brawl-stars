@@ -12,6 +12,6 @@ table {
 }
 
 header, table, div {
-    background-color: 0 0% 35%;
+    background-color: 0 0% 35% !important;
     color: white;
 }
