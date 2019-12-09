@@ -11,7 +11,7 @@ table {
     border-radius: 90;
 }
 
-header, table, div {
-    background-color: 0 0% 35% !important;
+.gray {
+    background-color: 0 0% 35%;
     color: white;
 }
